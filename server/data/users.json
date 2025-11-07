@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1",
+    "email": "admin@aicomgroup.vn",
+    "password": "123456",
+    "role": "admin"
+  },
+  {
+    "id": "2",
+    "email": "writer@aicomgroup.vn",
+    "password": "654321",
+    "role": "writer"
+  }
+]
+
